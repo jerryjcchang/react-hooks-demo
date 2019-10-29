@@ -13,7 +13,7 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 ### `json server`
-Run npm install json-server then json-server --watch db.json to spin up back end.
+Run `npm install json-server` then `json-server --watch db.json` to spin up back end.
 
 ### `npm test`
 
